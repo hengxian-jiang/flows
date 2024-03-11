@@ -1,0 +1,5 @@
+{
+  "type": "datamodel",
+  "datamodels": ["omop", "msphi"],
+  "entrypoint": "example_package/flowtest.py"
+}
